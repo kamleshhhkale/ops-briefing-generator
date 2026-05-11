@@ -156,7 +156,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## 👤 Author
 
-**Kamlesh Kale** <br>
+**Kamlesh Appasaheb Kale** <br>
 Masters in Data Science
 
 Built to demonstrate how AI can eliminate manual reporting work in hospitality operations — turning raw system exports into executive-ready briefings in seconds.
